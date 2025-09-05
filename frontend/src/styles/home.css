@@ -48,13 +48,13 @@ main .section-header {
     padding-top: 80px;
     /* background-color: var(--bg-dark); */
 }
-.section.projects {
+/* .section.projects { */
     /* background-color: var(--bg);
     background-image: url("layers.svg");
     background-repeat: no-repeat;          
     background-size: cover;               
     background-position: center;  */
-}
+/* } */
 .section.about {
     background-color: var(--bg);
     padding-bottom: 40px;
