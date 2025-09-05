@@ -3,14 +3,14 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://StevenMZH.github.io/Portfolio",
+  "homepage": "https://StevenMZH.github.io/Portfolio", 
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "vite build && copy dist\\index.html dist\\404.html && gh-pages -d dist"
+    "deploy": "vite build && cpx dist/index.html dist/404.html && gh-pages -d dist"
   },
   "dependencies": {
     "@react-three/drei": "^10.7.3",
@@ -32,7 +32,6 @@
     "@types/react": "^19.1.9",
     "@types/react-dom": "^19.1.7",
     "@vitejs/plugin-react": "^4.7.0",
-    "cpx": "^1.5.0",
     "eslint": "^9.32.0",
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.20",
