@@ -38,7 +38,7 @@ main .section-header {
     align-items: center;
     flex-direction: column;
     width: 100%;
-    background-image: url("parabolic.svg");
+    background-image: url("/backgrounds/parabolic.svg");
     background-repeat: no-repeat;          
     background-size: cover;               
     background-position: center;   
@@ -63,7 +63,7 @@ main .section-header {
     background-color: var(--bg);
     gap: 20px;
     background-color: var(--bg);
-    background-image: url("layers.svg");
+    background-image: url("/backgrounds/layers.svg");
     background-repeat: no-repeat;          
     background-size: cover;               
     background-position: center; 
