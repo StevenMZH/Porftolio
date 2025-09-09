@@ -1,4 +1,4 @@
-<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 2000 1500'>\
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1500 1500'>\
   <rect fill='#000000' width='500' height='500' x='500' y='500'/>\
   <defs>\
     <clipPath id='circleClip'>\
@@ -10,7 +10,7 @@
     <g transform='' style='transform-origin:center'>\
       <g transform='' style='transform-origin:center'>\
         <g transform='rotate(-160 0 0)' style='transform-origin:center'>\
-          <g transform='translate(1000 750)'>\
+          <g transform='translate(500 800)'>\
             <use stroke='#220032' href='#a' transform='rotate(-60 0 0) scale(0.4)'/>\
             <use stroke='#200a3b' href='#a' transform='rotate(-50 0 0) scale(0.5)'/>\
             <use stroke='#1e1243' href='#a' transform='rotate(-40 0 0) scale(0.6)'/>\
