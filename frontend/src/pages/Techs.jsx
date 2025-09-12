@@ -13,6 +13,7 @@ export function Techs() {
             <Tech img={"frontend/javascript.svg"} alt={"JS"} />
             <Tech img={"frontend/react.svg"} alt={"React"} />
             <Tech img={"frontend/react_router.svg"} alt={"React Router"} />
+            <Tech img={"frontend/flutter.svg"} alt={"Flutter"} />
           </div>
         </Reveal>
 

@@ -5,7 +5,13 @@ export function About() {
     <div className="section about">
         <p className="title">About Me</p>
         <Reveal className="description">
-          <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorem fugiat eaque quod soluta nulla voluptatibus tempora cupiditate asperiores accusamus, illum, delectus expedita ipsum laudantium! Nostrum assumenda eveniet quo amet harum! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem, veritatis beatae iste fugiat minus omnis quas voluptates consequuntur eos consectetur nam laudantium porro numquam, dolore deserunt et inventore non repudiandae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum aliquam odit saepe ipsam pariatur, asperiores exercitationem reprehenderit explicabo tenetur, dolor quisquam perspiciatis commodi modi quae et aliquid nostrum minima amet!</p>
+          <p>
+            I’m Steven Mendoza, a Cybernetic Electronic Engineering student passionate about building software platforms and applications that bring together software development, mathematical modeling, and electronics. I enjoy creating solutions that integrate theory and practice, transforming abstract concepts into tools with real-world impact.
+          </p>
+          <br/>
+          <p>
+            With experience as a Fullstack Web Developer and knowledge in DevOps practices, I design, develop, and deploy applications that are scalable and efficient. At every stage, from system design and production to continuous deployment. I apply principles of system analysis and design to ensure structured, optimized, and reliable solutions for complex problems.
+          </p>
         </Reveal>
     </div>
   );

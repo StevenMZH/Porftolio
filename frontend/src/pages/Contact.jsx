@@ -3,7 +3,7 @@ import Social from "../components/Social";
 export function Contact() {
   return (
     <div className="section contact">
-        <p className="title text-hl">Contacts</p>
+        <p className="title text-hl">Contact</p>
 
         <div className="socials">
           <Social img={"linkedin.svg"} alt={"Linkedin"} url={"https://www.linkedin.com/in/steven-mendoza-z/"}/>
